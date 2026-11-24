@@ -1,0 +1,7 @@
+pydantic
+rapidfuzz
+pdfplumber
+openpyxl
+pandas
+python-dotenv
+anthropic
